@@ -1,0 +1,30 @@
+.stepContainer {
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(208, 204, 204);
+  box-shadow: rgba(0, 0, 0, 0.11) 0px 3px 3px 1px;
+  /* width: 100%; */
+  margin: 50vh auto;
+  padding: 24px;
+}
+
+.image {
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(208, 204, 204);
+  box-shadow: rgba(0, 0, 0, 0.11) 0px 3px 3px 1px;
+  width: 100%;
+}
+
+.scroller {
+  flex-basis: 40%;
+}
+.graphic {
+  flex-basis: 60%;
+  position: sticky;
+  top: 20px;
+  width: 100%;
+  align-self: flex-start;
+}
