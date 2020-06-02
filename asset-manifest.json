@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scrollytelling-intro/static/css/main.abea085c.chunk.css",
+    "main.js": "/scrollytelling-intro/static/js/main.c313976b.chunk.js",
+    "main.js.map": "/scrollytelling-intro/static/js/main.c313976b.chunk.js.map",
+    "runtime-main.js": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js",
+    "runtime-main.js.map": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js.map",
+    "static/js/2.f11b3ce9.chunk.js": "/scrollytelling-intro/static/js/2.f11b3ce9.chunk.js",
+    "static/js/2.f11b3ce9.chunk.js.map": "/scrollytelling-intro/static/js/2.f11b3ce9.chunk.js.map",
+    "index.html": "/scrollytelling-intro/index.html",
+    "precache-manifest.e25286e42a2ac375805d576d115309c6.js": "/scrollytelling-intro/precache-manifest.e25286e42a2ac375805d576d115309c6.js",
+    "service-worker.js": "/scrollytelling-intro/service-worker.js",
+    "static/css/main.abea085c.chunk.css.map": "/scrollytelling-intro/static/css/main.abea085c.chunk.css.map",
+    "static/js/2.f11b3ce9.chunk.js.LICENSE.txt": "/scrollytelling-intro/static/js/2.f11b3ce9.chunk.js.LICENSE.txt",
+    "static/media/original-bechdel.png": "/scrollytelling-intro/static/media/original-bechdel.e3fad102.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b477ac2e.js",
+    "static/js/2.f11b3ce9.chunk.js",
+    "static/css/main.abea085c.chunk.css",
+    "static/js/main.c313976b.chunk.js"
+  ]
+}
