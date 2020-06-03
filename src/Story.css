@@ -9,6 +9,10 @@
   padding: 24px;
 }
 
+.no-top-margin {
+  margin-top: 0;
+}
+
 .step-counter {
   position: fixed;
   bottom: 30px;
@@ -47,12 +51,22 @@
   z-index: -1;
 }
 
+.stick-middle {
+  top: 30vh;
+}
+
 .section {
   display: flex;
-  margin-top: 50px;
+  margin: 50px 20px 0 20px;
 }
 
 .column {
   flex-direction: column;
   align-items: center;
+}
+
+.conclusion-header {
+  margin-top: 50vh;
+  position: sticky;
+  top: 30vh;
 }

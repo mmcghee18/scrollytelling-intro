@@ -3,6 +3,8 @@ import { Scrollama, Step } from "react-scrollama";
 import "./Story.css";
 import originalBechdel from "./images/original-bechdel.png";
 import behindCamera from "./images/behind-the-camera.png";
+import intersectional from "./images/intersectional.png";
+import compiledList from "./images/compiled-list.png";
 
 const Story = () => {
   const [currentStepIndex, setCurrentStepIndex] = useState(null);
@@ -47,6 +49,12 @@ const Story = () => {
                 Bechdel Test.
               </div>
             </Step>
+            <Step data={3} key={3}>
+              <div className="step-container">
+                I like the simple dot visualization (when you hover over them,
+                it shows you what movie it represents).
+              </div>
+            </Step>
           </Scrollama>
         </div>
 
@@ -57,9 +65,10 @@ const Story = () => {
 
       <div className="section column">
         <Scrollama onStepEnter={onStepEnter}>
-          <Step data={3} key={3}>
+          <Step data={4} key={4}>
             <div className="step-container skinny">
-              But my favorite part about this article is that they then asked:{" "}
+              But then they took it further. They then reached out to over a
+              dozen women in film/television and asked them:{" "}
               <strong>What does the next Bechdel Test look like?</strong> They
               created a bunch of new tests based on different criteria having to
               do with gender equity.
@@ -72,17 +81,74 @@ const Story = () => {
         </div>
 
         <Scrollama onStepEnter={onStepEnter}>
-          <Step data={4} key={4}>
+          <Step data={5} key={5}>
             <div className="step-container skinny">
               They evaluated the same top 50 movies of 2016, which did decently
               on some tests, and super horribly on others (like this one).
             </div>
           </Step>
-          <Step data={5} key={5}>
+          <Step data={6} key={6}>
             <div className="step-container skinny">
               The tests are broken into categories. This one falls under "Tests
               that look behind the camera."
             </div>
+          </Step>
+        </Scrollama>
+      </div>
+
+      <div className="section column">
+        <div className="full-graphic">
+          <img src={intersectional} className="image" />
+        </div>
+
+        <Scrollama onStepEnter={onStepEnter}>
+          <Step data={7} key={7}>
+            <div className="step-container skinny no-top-margin">
+              Here's one from the category "Tests that look beyond white women."
+            </div>
+          </Step>
+        </Scrollama>
+      </div>
+
+      <div className="section column">
+        <div className="full-graphic stick-middle">
+          <img src={compiledList} className="image" />
+        </div>
+
+        <Scrollama onStepEnter={onStepEnter}>
+          <Step data={8} key={8}>
+            <div className="step-container skinny">
+              At the end, they compiled all the tests and showed how each movie
+              performed overall.
+            </div>
+          </Step>
+          <Step data={9} key={9}>
+            <div className="step-container skinny">
+              The movies are sorted by how many tests they passed, so the ones
+              we see here performed the best overall.
+            </div>
+          </Step>
+        </Scrollama>
+      </div>
+
+      <div className="section column">
+        <h2 className="conclusion-header">In conclusion...</h2>
+        <Scrollama onStepEnter={onStepEnter}>
+          <Step data={10} key={10}>
+            <div className="step-container skinny no-top-margin">
+              I love how this piece expanded my understanding of what goes into
+              making movies that empower women.
+            </div>
+          </Step>
+          <Step data={11} key={11}>
+            <div className="step-container skinny">
+              Everyone's always talking about having more female protagonists,
+              but I hadn't thought about the effect of having a diverse
+              supporting cast or a diverse crew.
+            </div>
+          </Step>
+          <Step data={12} key={12}>
+            <div className="step-container skinny">Thanks for reading! 🎬</div>
           </Step>
         </Scrollama>
       </div>
