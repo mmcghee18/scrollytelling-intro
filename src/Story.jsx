@@ -15,7 +15,7 @@ const Story = () => {
 
   return (
     <>
-      <h1>Practice with Scrollama</h1>
+      <h1>Practice with Scrollama 🦙</h1>
       <h2>A walkthrough of FiveThirtyEight's "The New Bechdel Test"</h2>
       <p>Made with 💙 by Michelle</p>
 
