@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css",
+    "main.css": "/scrollytelling-intro/static/css/main.f883767d.chunk.css",
     "main.js": "/scrollytelling-intro/static/js/main.8f0dbdf2.chunk.js",
     "main.js.map": "/scrollytelling-intro/static/js/main.8f0dbdf2.chunk.js.map",
     "runtime-main.js": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js",
@@ -8,9 +8,9 @@
     "static/js/2.a4754ffb.chunk.js": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js",
     "static/js/2.a4754ffb.chunk.js.map": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.map",
     "index.html": "/scrollytelling-intro/index.html",
-    "precache-manifest.966556b643132077b26f95e2a4cecf6f.js": "/scrollytelling-intro/precache-manifest.966556b643132077b26f95e2a4cecf6f.js",
+    "precache-manifest.407826bb91685a1d936d4b9cc8f81a82.js": "/scrollytelling-intro/precache-manifest.407826bb91685a1d936d4b9cc8f81a82.js",
     "service-worker.js": "/scrollytelling-intro/service-worker.js",
-    "static/css/main.283e66b3.chunk.css.map": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css.map",
+    "static/css/main.f883767d.chunk.css.map": "/scrollytelling-intro/static/css/main.f883767d.chunk.css.map",
     "static/js/2.a4754ffb.chunk.js.LICENSE.txt": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.LICENSE.txt",
     "static/media/behind-the-camera.png": "/scrollytelling-intro/static/media/behind-the-camera.084d917b.png",
     "static/media/compiled-list.png": "/scrollytelling-intro/static/media/compiled-list.e8fb39ad.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.b477ac2e.js",
     "static/js/2.a4754ffb.chunk.js",
-    "static/css/main.283e66b3.chunk.css",
+    "static/css/main.f883767d.chunk.css",
     "static/js/main.8f0dbdf2.chunk.js"
   ]
 }
