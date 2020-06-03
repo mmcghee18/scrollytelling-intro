@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/scrollytelling-intro/static/css/main.abea085c.chunk.css",
-    "main.js": "/scrollytelling-intro/static/js/main.c313976b.chunk.js",
-    "main.js.map": "/scrollytelling-intro/static/js/main.c313976b.chunk.js.map",
+    "main.css": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css",
+    "main.js": "/scrollytelling-intro/static/js/main.77abbc55.chunk.js",
+    "main.js.map": "/scrollytelling-intro/static/js/main.77abbc55.chunk.js.map",
     "runtime-main.js": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js",
     "runtime-main.js.map": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js.map",
-    "static/js/2.f11b3ce9.chunk.js": "/scrollytelling-intro/static/js/2.f11b3ce9.chunk.js",
-    "static/js/2.f11b3ce9.chunk.js.map": "/scrollytelling-intro/static/js/2.f11b3ce9.chunk.js.map",
+    "static/js/2.a4754ffb.chunk.js": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js",
+    "static/js/2.a4754ffb.chunk.js.map": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.map",
     "index.html": "/scrollytelling-intro/index.html",
-    "precache-manifest.e25286e42a2ac375805d576d115309c6.js": "/scrollytelling-intro/precache-manifest.e25286e42a2ac375805d576d115309c6.js",
+    "precache-manifest.a373283ead21bca40e2355d0d630c95b.js": "/scrollytelling-intro/precache-manifest.a373283ead21bca40e2355d0d630c95b.js",
     "service-worker.js": "/scrollytelling-intro/service-worker.js",
-    "static/css/main.abea085c.chunk.css.map": "/scrollytelling-intro/static/css/main.abea085c.chunk.css.map",
-    "static/js/2.f11b3ce9.chunk.js.LICENSE.txt": "/scrollytelling-intro/static/js/2.f11b3ce9.chunk.js.LICENSE.txt",
+    "static/css/main.283e66b3.chunk.css.map": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css.map",
+    "static/js/2.a4754ffb.chunk.js.LICENSE.txt": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.LICENSE.txt",
+    "static/media/behind-the-camera.png": "/scrollytelling-intro/static/media/behind-the-camera.084d917b.png",
+    "static/media/compiled-list.png": "/scrollytelling-intro/static/media/compiled-list.e8fb39ad.png",
+    "static/media/intersectional.png": "/scrollytelling-intro/static/media/intersectional.7a321367.png",
     "static/media/original-bechdel.png": "/scrollytelling-intro/static/media/original-bechdel.e3fad102.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b477ac2e.js",
-    "static/js/2.f11b3ce9.chunk.js",
-    "static/css/main.abea085c.chunk.css",
-    "static/js/main.c313976b.chunk.js"
+    "static/js/2.a4754ffb.chunk.js",
+    "static/css/main.283e66b3.chunk.css",
+    "static/js/main.77abbc55.chunk.js"
   ]
 }
