@@ -1,12 +1,22 @@
-.stepContainer {
+.step-container {
   border-radius: 5px;
   border-width: 1px;
   border-style: solid;
   border-color: rgb(208, 204, 204);
   box-shadow: rgba(0, 0, 0, 0.11) 0px 3px 3px 1px;
-  /* width: 100%; */
+  background: white;
   margin: 50vh auto;
   padding: 24px;
+}
+
+.step-counter {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+
+.skinny {
+  width: 50%;
 }
 
 .image {
@@ -21,10 +31,28 @@
 .scroller {
   flex-basis: 40%;
 }
-.graphic {
+
+.half-graphic {
   flex-basis: 60%;
   position: sticky;
   top: 20px;
   width: 100%;
   align-self: flex-start;
+}
+
+.full-graphic {
+  width: 80%;
+  position: sticky;
+  top: 20px;
+  z-index: -1;
+}
+
+.section {
+  display: flex;
+  margin-top: 50px;
+}
+
+.column {
+  flex-direction: column;
+  align-items: center;
 }
