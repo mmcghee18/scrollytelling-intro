@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28e54eef4efb9f156f564cbda3582aec",
+    "revision": "fb446069c902b5e7bff8efc79190ce47",
     "url": "/scrollytelling-intro/index.html"
   },
   {
-    "revision": "e1c3e5027e8651b2ee3d",
+    "revision": "db549d50b09c4dd0da3f",
     "url": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1c3e5027e8651b2ee3d",
-    "url": "/scrollytelling-intro/static/js/main.77abbc55.chunk.js"
+    "revision": "db549d50b09c4dd0da3f",
+    "url": "/scrollytelling-intro/static/js/main.8f0dbdf2.chunk.js"
   },
   {
     "revision": "b204b4133027849ec1ef",

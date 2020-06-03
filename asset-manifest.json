@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css",
-    "main.js": "/scrollytelling-intro/static/js/main.77abbc55.chunk.js",
-    "main.js.map": "/scrollytelling-intro/static/js/main.77abbc55.chunk.js.map",
+    "main.js": "/scrollytelling-intro/static/js/main.8f0dbdf2.chunk.js",
+    "main.js.map": "/scrollytelling-intro/static/js/main.8f0dbdf2.chunk.js.map",
     "runtime-main.js": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js",
     "runtime-main.js.map": "/scrollytelling-intro/static/js/runtime-main.b477ac2e.js.map",
     "static/js/2.a4754ffb.chunk.js": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js",
     "static/js/2.a4754ffb.chunk.js.map": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.map",
     "index.html": "/scrollytelling-intro/index.html",
-    "precache-manifest.a373283ead21bca40e2355d0d630c95b.js": "/scrollytelling-intro/precache-manifest.a373283ead21bca40e2355d0d630c95b.js",
+    "precache-manifest.966556b643132077b26f95e2a4cecf6f.js": "/scrollytelling-intro/precache-manifest.966556b643132077b26f95e2a4cecf6f.js",
     "service-worker.js": "/scrollytelling-intro/service-worker.js",
     "static/css/main.283e66b3.chunk.css.map": "/scrollytelling-intro/static/css/main.283e66b3.chunk.css.map",
     "static/js/2.a4754ffb.chunk.js.LICENSE.txt": "/scrollytelling-intro/static/js/2.a4754ffb.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b477ac2e.js",
     "static/js/2.a4754ffb.chunk.js",
     "static/css/main.283e66b3.chunk.css",
-    "static/js/main.77abbc55.chunk.js"
+    "static/js/main.8f0dbdf2.chunk.js"
   ]
 }
